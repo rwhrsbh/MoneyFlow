@@ -1,4 +1,4 @@
-# My Application
+# MoneyFlow
 
 A modern Android application built with Kotlin and Jetpack Compose that demonstrates fundamental Android development concepts.
 
